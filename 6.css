@@ -1,0 +1,206 @@
+body{
+    font-size: 18px;
+    background:black;
+}
+.header{
+    color:floralwhite;
+    font-weight: 1000;
+    font-size: 30px;
+    width:1000px;
+    height:60px;
+    margin: 5px auto;
+    text-align:center;
+    background: rgba(255, 255, 255, 0);
+    line-height:60px;
+    border-radius: 50px;
+}
+.contain{
+    width:1000px;
+    margin: 0 auto;
+}
+.qqq{
+    width:1000px;
+    height:44px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0);
+    line-height:20px;
+    border-radius: 50px;
+}
+.www{
+    width:1000px;
+    height:564px;
+    border: 0px solid #f7f4f411;
+    text-align:center;
+    background: rgba(255, 255, 255, 0.02);
+    line-height:60px;
+    border-radius: 50px;
+}
+.eee{
+    width:780px;
+    height:600px;
+    border: 0px solid #f7f4f411;
+    text-align:center;
+    background:rgba(255, 255, 255, 0.002);
+    line-height:60px;
+    border-radius: 50px;
+    float:left;
+    
+}
+.rrr{
+    width:212px;
+    height:600px;
+    border: 0px solid #f7f4f411;
+    text-align:center;
+    background: rgba(255, 255, 255, 0.002);
+    line-height:60px;
+    border-radius: 50px;
+    float:right;
+    font-size: 18px;
+}
+.fa{
+    margin: 5px auto;
+    width:1000px;
+    height:600px;
+}
+.ttt{
+    width:1000px;
+    height:50px;
+    margin: 5px auto;
+    text-align:center;
+    background: rgba(255, 255, 255, 0);
+    line-height:60px;
+    border-radius: 50px;
+    font-size: 5px;
+    float: left;
+    color: darkgray;
+}
+.apple{
+    float: left;
+    background-size: 36px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(apple.svg);
+}
+.mac{
+    float: left;
+    background-size: 36px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(mac.svg);
+}
+.ipad{
+    float: left;
+    background-size: 36px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(ipad.svg);
+}
+.iphone{
+    float: left;
+    background-size: 44px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(iphone.svg);
+}
+.watch{
+    float: left;
+    background-size: 44px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(watch.svg);
+}
+.tv{
+    float: left;
+    background-size: 44px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(tv.svg);
+}
+.music{
+    float: left;
+    background-size: 44px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(music.svg);
+}
+.support{
+    float: left;
+    background-size: 50px 46px;
+    background-repeat:no-repeat;
+    width: 50px;
+    background-image: url(support.svg);
+}
+.ul{
+    float: right;
+    width: 960px;
+    height: 44px;
+    margin: 0 auto;
+}
+.urtm{
+   float: left;
+   width: 50px;
+   height: 50px;
+}
+.appbox{
+    height: 44px;
+    width: 57px;
+    float: left;
+}
+.appbox1{
+    height: 44px;
+    width: 50px;
+    float: left;
+}
+.appbox2{
+    height: 44px;
+    width: 46px;
+    float: left;
+}
+.appbox3{
+    height: 44px;
+    width: 47px;
+    float: left;
+}
+.appbox4{
+    height: 44px;
+    width: 64px;
+    float: left;
+}
+.phb{
+    color:darkgray;
+}
+.phb2{
+    line-height: 80px;
+    font-size: 23px;
+    font-weight: 1000;
+}
+a{
+    text-decoration:none;
+}
+.biaoti{
+    font-size: 55px;
+}
+.biaoti2{
+    font-size: 60px;
+}
+#lastzt{
+    position: relative;
+    color: rgba(255,255,255,1);
+    font-size: 18px;
+    float: right;
+    font-family: "微软雅黑";
+    font-weight: 1000;
+    width: 150px;
+    top: 10px;
+    left: -270px;
+}
+.last5{
+    position: relative;
+    top: 0;
+    left: 130px;
+}
+.gpu{
+    position: relative;
+    top: 0;
+    left: 120px;
+}
